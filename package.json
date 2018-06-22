@@ -2,9 +2,9 @@
   "name": "bot",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "Discord_Bot",
   "dependencies": {
-    "discord.js": "^11.3.2"
+    "discord.py": "^11.3.2"
   },
   "devDependencies": {},
   "scripts": {

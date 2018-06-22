@@ -200,7 +200,4 @@ async def on_voice_state_update(member_before, member_after):
                 print("Error: no message could be sent to channel #%s on server %s. Exception: %s" % (config.logs, server, exception))
 
 
-
-
-client.run("NDU5MzM0ODg3ODc1NDExOTgw.Dg2MhA.Hk3F2X4UqrGoFxKTn57f8Kd8Pgc")
-
+client.run(process.env.TOKEN);
